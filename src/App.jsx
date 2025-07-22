@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import HomePage from './pages/HomePage';
-import DemoPage from "./pages/DemoPage"; // matches the file name exactly
+import DemoPage from "./pages/DemoPage"; 
 import GuidedSessionsPage from './pages/GuidedSessionsPage';
 import AnchorLibraryPage from './pages/AnchorLibraryPage';
 import ProgressPage from './pages/ProgressPage';
